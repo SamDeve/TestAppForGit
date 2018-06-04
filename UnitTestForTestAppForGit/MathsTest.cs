@@ -3,8 +3,7 @@ using System.Text;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace UnitTestForTestAppForGit
-{
+
     /// <summary>
     /// Summary description for MathsTest
     /// </summary>
@@ -59,4 +58,4 @@ namespace UnitTestForTestAppForGit
             //
         }
     }
-}
+
